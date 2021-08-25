@@ -1,1 +1,2 @@
-![GitHub profile][https://github.com/srecupe2]
+
+[GitHub profile](https://github.com/srecupe2)
